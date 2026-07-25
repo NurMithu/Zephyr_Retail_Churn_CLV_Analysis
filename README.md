@@ -109,7 +109,7 @@ The raw file contains realistic data quality issues — duplicate records, incon
 
 ### Option 2 — Local Jupyter
 ```bash
-git clone https://github.com/<your-username>/zephyr-retail-churn-clv-analysis.git
+git clone https://github.com/<MithuNur>/zephyr-retail-churn-clv-analysis.git
 cd zephyr-retail-churn-clv-analysis
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
